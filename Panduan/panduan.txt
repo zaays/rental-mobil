@@ -1,0 +1,13 @@
+Login Admin: http://127.0.0.1:8000/administrator
+User: admin@gmail.com
+pass: password
+
+Fitur (Admin)
+1. Kelola Data Mobil (CRUD)
+2. Melihat data customer
+3. Mengelola Data Pembayaran (Konfirmasi Pembayaran)
+
+Fitur Umum
+1. Registrasi Customer
+2. Login Customer
+3. Kelola Sewa Mobil
